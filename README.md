@@ -1,4 +1,5 @@
 ## Hi there 👋
+<div align = "center">
 <div id = "header" align "center">
   <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "80%"> </img>
   
@@ -47,4 +48,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurpicakci&layout=compact&theme=cobalt&hide_border=true" />
 
 <img src="https://github.com/onurpicakci/onurpicakci/blob/output/github-contribution-grid-snake.svg" />
+</div>
 </div>
