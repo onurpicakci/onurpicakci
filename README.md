@@ -15,7 +15,7 @@
 - 🔭 I’m Software Development Intern at Volosoft
 - 📝 I’m currently learning .NET and Abp Framework
 
-## Languages and Frameworks
+## Languages, Frameworks and Tools
 <div align="center">
   <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
