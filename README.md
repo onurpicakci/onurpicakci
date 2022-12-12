@@ -1,6 +1,4 @@
-
-<div align = "center">
-  ## Hi there 👋
+ ## Hi there 👋
 <div id = "header">
   <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "80%"> </img>
   
@@ -13,7 +11,7 @@
   </a>
 </div>
 </div>
-</div>
+
 ## <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width = "100"/> About Me:
 - 🔭 I’m Software Development Intern at Volosoft
 - 📝 I’m currently learning .NET and Abp Framework
