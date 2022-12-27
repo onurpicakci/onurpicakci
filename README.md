@@ -47,6 +47,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurpicakci&layout=compact&theme=cobalt&hide_border=true" />
 
-<img src="https://github.com/onurpicakci/onurpicakci/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
