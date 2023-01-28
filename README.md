@@ -4,10 +4,13 @@
   <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "50%"> </img>
   <div id="badges">
   <a href="https://www.linkedin.com/in/onurpicakci/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/onurpicakcii">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://medium.com/@onurpicakci">
+    <img src="https://img.shields.io/badge/Medium-323330?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 </div>
