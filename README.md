@@ -17,8 +17,6 @@
 
 ## About Me:
 - :book: I'm Management Information Systems student at Istanbul Aydin University
-- 🔭 I’m Software Development Intern at Volosoft
-- 📝 I’m currently learning .NET and Abp Framework
 
 ## Languages, Frameworks and Tools
 <div align="center">
