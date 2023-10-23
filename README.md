@@ -47,8 +47,6 @@
 <div align="center"> 
  <img align="center" src="https://streak-stats.demolab.com?user=onurpicakci&theme=dark" alt="My github stats"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurpicakci&theme=dark&layout=compact)]
-
  ![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurpicakci&show_icons=true&theme=dark) 
 </div>
 
