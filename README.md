@@ -17,6 +17,7 @@
 
 ## About Me:
 - :book: I'm Management Information Systems student at Istanbul Aydin University
+- 👨🏻‍💻 I work as a Software Development Intern at VakıfBank
 
 ## Languages, Frameworks and Tools
 <div align="center">
