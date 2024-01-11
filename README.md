@@ -40,12 +40,4 @@
 </div>
   
 </p>
-          
-
-## My Stats
-
-<div align="center"> 
- <img align="center" src="https://streak-stats.demolab.com?user=onurpicakci&theme=dark" alt="My github stats"/>
-
-</div>
-
+        
