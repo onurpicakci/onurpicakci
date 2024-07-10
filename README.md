@@ -16,7 +16,10 @@
 </div>
 
 ## About Me:
-- :book: I'm Management Information Systems student at Istanbul Aydin University
+- 💼 Software Developer at Acibadem Healthcare Group.
+- :bookmark_tabs: I write my blog posts on [my personal website](https://onurpicakci.github.io/).
+- 📖	I like to improve myself and get new technologies.
+
 
 
 ## Languages, Frameworks and Tools
